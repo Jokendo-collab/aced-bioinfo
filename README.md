@@ -5,7 +5,7 @@ Concept: Terminal lets you access the Unix system that lies beneath the fancy Ma
 ## Before we begin
 - [x] Download the file from here: `https://github.com/Jokendo-collab/aced/blob/main/UnixClass_120516.tar.gz`
 - [ ] Double click on the file to uncompress it. It will create a directory (folder) call `UnixClass`.
-- [ ] Drag the `UnixClass directory to the `Desktop` folder on your Mac/Windows machine.
+- [ ] Drag the UnixClass directory to the `Desktop` folder on your Mac/Windows machine.
 
 ## List directory contents and change working directory
 | Run Terminal.app    | Find usinf Spotlight (/Applications/Utilities) |
