@@ -7,6 +7,7 @@ Concept: Terminal lets you access the Unix system that lies beneath the fancy Ma
 - [ ] Double click on the file to uncompress it. It will create a directory (folder) call `UnixClass`.
 - [ ] Drag the `UnixClass directory to the `Desktop` folder on your Mac/Windows machine.
 
+## List directory contents and change working directory
 | Run Terminal.app    | Find usinf Spotlight (/Applications/Utilities) |
 | :---: | :---: |
 | ls  | What's there?   |
