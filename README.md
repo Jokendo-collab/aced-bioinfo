@@ -7,7 +7,7 @@ Concept: Terminal lets you access the Unix system that lies beneath the fancy Ma
 - [ ] Double click on the file to uncompress it. It will create a directory (folder) call `UnixClass`.
 - [ ] Drag the UnixClass directory to the `Desktop` folder on your Mac/Windows machine.
 
-## List directory contents and change working directory
+## 1.1 List directory contents and change working directory
 | Run Terminal.app    | Find usinf Spotlight (/Applications/Utilities) |
 | :---: | :---: |
 | ls  | What's there?   |
@@ -29,7 +29,7 @@ Concept: Terminal lets you access the Unix system that lies beneath the fancy Ma
 ## Unix 101 Part 2: Viewing, counting, and searching text files
 - [ ] **Concept:** Redirecting output, piping the output of one command to the input of the next command. 
 - [ ] **Tasks:** See what's inside the files, even very large ones, and start to be able to summarize and search through the texts.
-### _View file contents_
+### 1.2 View file contents
 |Command  | What it does/explanation|
 | :---:| :---:|
 |cat hgmd_brca1.txt |dump file contents to screen |
