@@ -66,4 +66,4 @@ Concept: Terminal lets you access the Unix system that lies beneath the fancy Ma
 | grep -i ovar hgmd_brca1.txt > ovarian.txt | gets all [ -i option makes it case-insensitive ]
 | wc -l ovarian.txt || 
 
-
+===
