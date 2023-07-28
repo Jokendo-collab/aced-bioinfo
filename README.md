@@ -1,4 +1,4 @@
-#  A introduction to bioinformatics and computational biology at [ACEGID](https://acegid.org/)
+# Introduction to bioinformatics at [ACEGID](https://acegid.org/)
 ## Unix 101: Part 1 - files and directories
 Concept: Terminal lets you access the Unix system that lies beneath the fancy Mac/Ubuntu GUI.
 
