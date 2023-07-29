@@ -1,4 +1,65 @@
-# Introduction to bioinformatics at [ACEGID](https://acegid.org/)
+# [ African Centre of Excellence for Genomics of Infectious Diseases](https://acegid.org/): Introduction to bioinformatics
+ACEGID introduction to bioinformatics course outline. The following topics will be covered to help introduce the students and researchers to fundamentals of bioinformatics. 
+
+### 1. Introduction to Bioinformatics
+   - [ ] Overview of bioinformatics and its applications in biology and medicine.
+   - [ ] Introduction to biological databases and data types (sequences, structures, gene expressions, etc.).
+   - [ ] Overview of key computational tools and resources in bioinformatics.
+
+### 2. Biological Data Retrieval and Manipulation
+   - [ ] Introduction to sequence data (DNA, RNA, protein) and file formats (FASTA, GenBank).
+   - [ ] Retrieving sequences from databases and local files.
+   - [ ] Sequence alignment algorithms and pairwise sequence alignment.
+   - [ ] Introduction to sequence databases (NCBI, UniProt) and their search tools.
+
+### 3. Sequence Analysis
+   - [ ] Multiple sequence alignment and its applications.
+   - [ ] Phylogenetic analysis and tree construction.
+   - [ ] Introduction to sequence similarity searching and basic BLAST usage.
+   - [ ] Introduction to sequence motif analysis and identification.
+
+### 4. Structural Bioinformatics
+   - [ ] Introduction to protein structure and its representation.
+   - [ ] Protein structure databases (PDB) and their tools.
+   - [ ] Homology modeling and structure prediction.
+   - [ ] Introduction to protein-ligand interactions and drug discovery.
+
+### 5. Genomics and Transcriptomics
+   - [ ] Introduction to genome sequencing and assembly.
+   - [ ] Annotation of genomes and gene prediction.
+   - [ ] Introduction to RNA sequencing (RNA-Seq) and data analysis.
+   - [ ] Gene expression analysis and differential expression.
+
+### 6. Data Visualization and Analysis
+   - [ ] Introduction to data visualization techniques in bioinformatics.
+   - [ ] Exploratory data analysis and statistical analysis.
+   - [ ] Introduction to R and its bioinformatics packages.
+   - [ ] Visualization and interpretation of biological networks and pathways.
+
+### 7. Introduction to Machine Learning in Bioinformatics
+   - [ ] Overview of machine learning techniques and their applications.
+   - [ ] Introduction to classification and regression in bioinformatics.
+   - [ ] Feature selection and dimensionality reduction.
+   - [ ] Hands-on exercises using machine learning tools in bioinformatics.
+
+### 8. Practical Projects
+   - [ ] Assign hands-on projects to apply the knowledge gained throughout the course.
+   - [ ] Provide real-world datasets and guide students in solving bioinformatics problems.
+   - [ ] Encourage students to explore additional topics of interest and present their findings.
+
+### 9. Ethical and Legal Considerations
+   - [ ] Discuss ethical considerations in bioinformatics research.
+   - [ ] Overview of data privacy, security, and intellectual property.
+   - [ ] Responsible conduct of research and publication ethics.
+
+### 10. Emerging Trends in Bioinformatics
+  - [ ] Introduce students to emerging areas like metagenomics, single-cell sequencing, and precision medicine.
+ - [ ] Discuss recent advances and future directions in bioinformatics research.
+
+**Note**: Hands- exercised, assignments, and practical projects will be provided throughout the course to reinforce learning. Additionally, we shall encourage discussions, group activities to provide a well-rounded learning experience.
+
+_________________
+
 ## Unix 101: Part 1 - files and directories
 Concept: Terminal lets you access the Unix system that lies beneath the fancy Mac/Ubuntu GUI.
 
@@ -65,3 +126,6 @@ Concept: Terminal lets you access the Unix system that lies beneath the fancy Ma
 | wc -l ovarian.txt | note that we overwrote the original `ovarian.txt` file, no warning!|
 | grep -i ovar hgmd_brca1.txt > ovarian.txt | gets all [ -i option makes it case-insensitive ]
 | wc -l ovarian.txt || 
+
+
+
