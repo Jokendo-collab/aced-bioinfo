@@ -1,7 +1,7 @@
 # Introduction to bioinformatics course at [ ACEGID ](https://acegid.org/) 
 
 <p align="center">
-  <img src="logo.jpeg" width="500" hight="3000" title="hover text">
+  <img src="logo.png" width="500" hight="3000" title="hover text">
 
 </p>
 
