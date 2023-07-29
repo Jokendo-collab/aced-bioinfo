@@ -1,5 +1,10 @@
 # Introduction to bioinformatics course at [ ACEGID ](https://acegid.org/) 
-![logo]()
+![logo](logo.jpeg)
+
+<p align="center">
+  <img src="logo.jpeg" width="350" length="3000" title="hover text">
+
+</p>
 
 ACEGID introduction to bioinformatics course outline. The following topics will be covered to help introduce the students and researchers to fundamentals of bioinformatics. 
 
