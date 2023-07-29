@@ -1,4 +1,10 @@
-# [ African Centre of Excellence for Genomics of Infectious Diseases](https://acegid.org/): Introduction to bioinformatics
+# Introduction to bioinformatics course at [ ACEGID ](https://acegid.org/) 
+
+<p align="center">
+  <img src="logo.jpeg" width="500" hight="3000" title="hover text">
+
+</p>
+
 ACEGID introduction to bioinformatics course outline. The following topics will be covered to help introduce the students and researchers to fundamentals of bioinformatics. 
 
 ### 1. Introduction to Bioinformatics
