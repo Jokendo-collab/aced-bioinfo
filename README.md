@@ -1,8 +1,7 @@
 # Introduction to bioinformatics course at [ ACEGID ](https://acegid.org/) 
-![logo](logo.jpeg)
 
 <p align="center">
-  <img src="logo.jpeg" width="350" length="3000" title="hover text">
+  <img src="logo.jpeg" width="500" hight="3000" title="hover text">
 
 </p>
 
