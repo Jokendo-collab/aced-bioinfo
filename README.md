@@ -19,7 +19,7 @@ ACEGID introduction to bioinformatics course outline. The following topics will 
    - [ ] Introduction to sequence similarity searching and basic BLAST usage.
    - [ ] Introduction to sequence motif analysis and identification.
 
-### 4. Structural Bioinformatics
+### _4. Structural Bioinformatics_
    - [ ] Introduction to protein structure and its representation.
    - [ ] Protein structure databases (PDB) and their tools.
    - [ ] Homology modeling and structure prediction.
