@@ -7,9 +7,6 @@ ACEGID introduction to bioinformatics course outline. The following topics will 
    - [x] Introduction to biological databases and data types (sequences, structures, gene expressions, etc.).
    - [x] Overview of key computational tools and resources in bioinformatics.
 
-### Sequence assembly (De novo and reference guided assembly)
-
-
 ### 2. Biological Data Retrieval and Manipulation
    - [ ] Introduction to sequence data (DNA, RNA, protein) and file formats (FASTA, GenBank).
    - [ ] Retrieving sequences from databases and local files.
@@ -61,6 +58,8 @@ ACEGID introduction to bioinformatics course outline. The following topics will 
  - [ ] Discuss recent advances and future directions in bioinformatics research.
 
 **Note**: Hands- exercised, assignments, and practical projects will be provided throughout the course to reinforce learning. Additionally, we shall encourage discussions, group activities to provide a well-rounded learning experience.
+
+### Sequence assembly (De novo and reference guided assembly)
 
 _________________
 
