@@ -3,9 +3,9 @@
 ACEGID introduction to bioinformatics course outline. The following topics will be covered to help introduce the students and researchers to fundamentals of bioinformatics. 
 
 ### 1. Introduction to Bioinformatics
-   - [ ] Overview of bioinformatics and its applications in biology and medicine.
-   - [ ] Introduction to biological databases and data types (sequences, structures, gene expressions, etc.).
-   - [ ] Overview of key computational tools and resources in bioinformatics.
+   - [x] Overview of bioinformatics and its applications in biology and medicine.
+   - [x] Introduction to biological databases and data types (sequences, structures, gene expressions, etc.).
+   - [x] Overview of key computational tools and resources in bioinformatics.
 
 ### Sequence assembly (De novo and reference guided assembly)
 
