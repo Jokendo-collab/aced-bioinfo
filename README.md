@@ -2,6 +2,18 @@
 
 ACEGID introduction to bioinformatics course outline. The following topics will be covered to help introduce the students and researchers to fundamentals of bioinformatics. 
 
+### Interesting areas to cover ?
+
+- [ ] Introduction to bioinformatics?
+- [ ] Assembly
+- [ ] Alignment (Short/long read genome assembly?)
+- [ ] Phylogenetic analysis
+- [ ] Metagenomics data analysis (bacterial informatics? Shortgun metagenomics? 16S metagenomics?)
+- [ ] Variant calling and analysis and visualization? [x]
+- [ ] _Statistics training?_
+- [ ] Commandline using Linux?
+- [ ] R and python coding? (Comes after the linux training) 
+
 ### 1. Introduction to Bioinformatics
    - [x] Overview of bioinformatics and its applications in biology and medicine.
    - [x] Introduction to biological databases and data types (sequences, structures, gene expressions, etc.).
@@ -19,25 +31,25 @@ ACEGID introduction to bioinformatics course outline. The following topics will 
    - [ ] Introduction to sequence similarity searching and basic BLAST usage.
    - [ ] Introduction to sequence motif analysis and identification.
 
-### _4. Structural Bioinformatics_
+### 4. _Structural Bioinformatics (future course)_
    - [ ] Introduction to protein structure and its representation.
    - [ ] Protein structure databases (PDB) and their tools.
    - [ ] Homology modeling and structure prediction.
    - [ ] Introduction to protein-ligand interactions and drug discovery.
 
-### 5. Genomics and Transcriptomics
+### 5. _Genomics and Transcriptomics (Advance course?)_
    - [ ] Introduction to genome sequencing and assembly.
    - [ ] Annotation of genomes and gene prediction.
    - [ ] Introduction to RNA sequencing (RNA-Seq) and data analysis.
    - [ ] Gene expression analysis and differential expression.
 
-### 6. Data Visualization and Analysis
+### 6. _Data Visualization and Analysis (future course?)_
    - [ ] Introduction to data visualization techniques in bioinformatics.
    - [ ] Exploratory data analysis and statistical analysis.
    - [ ] Introduction to R and its bioinformatics packages.
    - [ ] Visualization and interpretation of biological networks and pathways.
 
-### 7. Introduction to Machine Learning in Bioinformatics
+### 7. _Introduction to Machine Learning in Bioinformatics (future course)_
    - [ ] Overview of machine learning techniques and their applications.
    - [ ] Introduction to classification and regression in bioinformatics.
    - [ ] Feature selection and dimensionality reduction.
