@@ -18,7 +18,7 @@ ACEGID introduction to bioinformatics course outline. The following topics will 
    - [x] Overview of bioinformatics and its applications in biology and medicine.
    - [x] Introduction to biological databases and data types (sequences, structures, gene expressions, etc.).
    - [x] Overview of key computational tools and resources in bioinformatics.
-
+   - [ ] Setting up ubuntu virtaul machine: https://brb.nci.nih.gov/seqtools/installUbuntu.html
 ### 2. Biological Data Retrieval and Manipulation
    - [ ] Introduction to sequence data (DNA, RNA, protein) and file formats (FASTA, GenBank).
    - [ ] Retrieving sequences from databases and local files.
