@@ -7,7 +7,7 @@ We will conduct the attached demographic survey to calibrate the course accordin
 ## Module: Introduction to bioinformatics
 ### Session 1: Introduction to Genomic Epidemiology
 Session type: Theory
-- [ ] Background information: Provide an overview on basic terminologies used in bioinformatics and both sequencing technologies.
+- [ ] Background information: Provide an overview on basic **terminologies** used in bioinformatics and both sequencing technologies.
 Limitations of classic epidemiology and what can genomic epidemiology tell us (zoonotic origin, timing, spatial origin of transmission, etc.)
 Evolutionary and mutational processes at different scales (time, space, host) and how to use them to reconstruct epidemic spread
 Basic phylogenetics introduction
