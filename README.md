@@ -28,7 +28,7 @@ We will conduct the attached demographic survey to calibrate the course accordin
 - [ ] Practical: genome assembly in Terra
 - [ ] Practical: evaluating assembly
 - [ ] Practical: sequence similarity searching and basic BLAST usage.
-- ] Practical: Kraken for metagenomics
+- [ ] Practical: Kraken for metagenomics
 ## Session 5: Evaluating the assemblies qualities
 ### Session type: Theory and practical
 - [ ] Assembly metrics (e.g., read depth, genome coverage, k-mer analysis)
