@@ -120,8 +120,6 @@ Ubuntu
 
 **Note**: Hands- exercised, assignments, and practical projects will be provided throughout the course to reinforce learning. Additionally, we shall encourage discussions, group activities to provide a well-rounded learning experience.
 
-### Sequence assembly (De novo and reference guided assembly)
-
 _________________
 
 ## Unix 101: Part 1 - files and directories
