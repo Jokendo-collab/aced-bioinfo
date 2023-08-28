@@ -87,7 +87,7 @@ Ubuntu
 - [ ] Command Line using Linux
 - [ ] Why Linux for bioinformatics?
 - [ ] Input/Output
-- [ ] Commonly used commands (ls, mkdir, mv, rm, cp, tail, head, cat, grep,  …)
+- [ ] Commonly used commands (`ls`, `mkdir`, `mv`, `rm`, `cp`, `tail`, `head`, `cat`, `grep`,  …)
 - [ ] Working with directories and files (creating, modifying, searching, downloading, compressing)
 - [ ] awk
 ## Session 3+4: Pipelines
