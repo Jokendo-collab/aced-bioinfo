@@ -69,6 +69,12 @@ We will conduct the attached demographic survey to calibrate the course accordin
 
 ## Suggested: Session 11+12: Bacterial bioinformatics 
 - [x] Will decide based on demographic survey
+- [ ] Introduction
+- [ ] Assembly
+- [ ] Annotation
+- [ ] Comprehensive genomics analysis
+- [ ] Phylogenetics analysis
+- [ ] Visualization √
 
 ## Suggested: Session 13+14: Assembly with ONT data
 Will decide based on demographic survey. 
