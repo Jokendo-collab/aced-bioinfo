@@ -149,6 +149,8 @@ Concept: Terminal lets you access the Unix system that lies beneath the fancy Ma
 
 **NOTE** that most puntuation characters have a specificic meaning and purposes in the Unix shell. For this reason it is generally a good idea to avoid using puntuation, including spaces, in filenames. The "safe" characters are letters, numbers, and _ [underscores], - [dash], and . [period]. Anything else will likely create a conflict with one program of the other. **ALSO** note that linux does not care about the last few characters of your file name.  
 
+
+
 ## Unix 101 Part 2: Viewing, counting, and searching text files
 - [ ] **Concept:** Redirecting output, piping the output of one command to the input of the next command. 
 - [ ] **Tasks:** See what's inside the files, even very large ones, and start to be able to summarize and search through the texts.
@@ -188,6 +190,20 @@ Concept: Terminal lets you access the Unix system that lies beneath the fancy Ma
 | wc -l ovarian.txt | note that we overwrote the original `ovarian.txt` file, no warning!|
 | grep -i ovar hgmd_brca1.txt > ovarian.txt | gets all [ -i option makes it case-insensitive ]
 | wc -l ovarian.txt || 
+
+## Training timetable
+| Week | Session 1: Bioinformatics | Session 2: Coding |
+| :---: | :---: | :---: |
+| 1 | Introduction to Genomic Epidemiology | Introduction to Linux operating system |
+| 2 | Introduction to Bioinformatics for genome assembly | Introduction to linux command line |
+| 3 | Matagenomic genome assembly in Terra | Linux 101 |
+| 4 | Matagenomic genome assembly in Terra | Bash scripting |
+| 5 | Evaluating the assemblies qualities | Introduction to python for bioinformatics |
+| 6 | Genome assembly in the command line | Introduction to python for bioinformatics |
+| 7 | Genome assembly in the command line | Introduction to Biopython |
+| 8 | Multiple Sequence Alignment | Introduction to pandas |
+| 9 | Introduction to Phylogenetics | Introduction to pandas |
+| 10 | Building and visualizing  a Maximum Likelihood Tree | Data visualization tools |
 
 
 
