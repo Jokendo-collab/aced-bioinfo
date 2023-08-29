@@ -24,6 +24,7 @@ We will conduct the attached demographic survey to calibrate the course accordin
 
 ## Session 3+4: Matagenomic genome assembly in Terra
 - [ ] Metagenomic assembly and assembly graph tangle resolution: https://github.com/hsnguyen/assembly/tree/master
+- [ ] Matagenomic assembly and quality assessment using Genomescope, QUAST.py , jellyfish, merquiry etc
 ### Session type: Theory and practical
 - [ ] Metagenomics vs amplicon protocols
 - [ ] Practical: genome assembly in Terra
