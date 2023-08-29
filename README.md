@@ -23,6 +23,7 @@ We will conduct the attached demographic survey to calibrate the course accordin
 - [ ] Metagenomics vs amplicon protocols
 
 ## Session 3+4: Matagenomic genome assembly in Terra
+- [ ] Metagenomic assembly and assembly graph tangle resolution: https://github.com/hsnguyen/assembly/tree/master
 ### Session type: Theory and practical
 - [ ] Metagenomics vs amplicon protocols
 - [ ] Practical: genome assembly in Terra
