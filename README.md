@@ -27,10 +27,10 @@ We will conduct the attached demographic survey to calibrate the course accordin
 - [ ] Matagenomic assembly and quality assessment using Genomescope, QUAST.py , jellyfish, merquiry etc
 ### Session type: Theory and practical
 - [ ] Metagenomics vs amplicon protocols
-- [ ] Practical: genome assembly in Terra
-- [ ] Practical: evaluating assembly
-- [ ] Practical: sequence similarity searching and basic BLAST usage.
-- [ ] Practical: Kraken for metagenomics
+- [ ] **Practical:** genome assembly in Terra
+- [ ] **Practical:** evaluating assembly
+- [ ] **Practical:** sequence similarity searching and basic BLAST usage.
+- [ ] **Practical:** Kraken for metagenomics
 ## Session 5: Evaluating the assemblies qualities
 ### Session type: Theory and practical
 - [ ] Assembly metrics (e.g., read depth, genome coverage, k-mer analysis)
@@ -64,7 +64,7 @@ We will conduct the attached demographic survey to calibrate the course accordin
 ## Session 10: Building and visualizing  a Maximum Likelihood Tree
 ### Session type: Theory and practical
 - [ ] Maximum likelihood trees
-- [ ] PRACTICAL : Iqtree web server, Iqtree on the command line
+- [ ] **PRACTICAL:** Iqtree web server, Iqtree on the command line
 - [ ] Visualizing and annotating trees using FigTree
 - [ ] Tree interpretation 
 - [ ] Tie back to genomic epidemiology
@@ -124,7 +124,6 @@ Ubuntu
 - [ ] Introduction to seaborn
 - [ ] Suggested Session 11: Nextflow
 - [ ] Introduction to nextflow pipelines and how to configure them to run on our local server(s). 
-
 
 - [ ] **Note**: Hands- exercised, assignments, and practical projects will be provided throughout the course to reinforce learning. Additionally, we shall encourage discussions, group activities to provide a well-rounded learning experience.
 
