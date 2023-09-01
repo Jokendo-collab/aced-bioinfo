@@ -142,16 +142,16 @@ Concept: Terminal lets you access the Unix system that lies beneath the fancy Ma
 ## Training timetable
 | Week | Session 1: Bioinformatics | Session 2: Coding |
 | :---: | :---: | :---: |
-| 1 | Introduction to Genomic Epidemiology | Introduction to Linux operating system |
-| 2 | Introduction to Bioinformatics for genome assembly | Introduction to linux command line |
-| 3 | Matagenomic genome assembly in Terra | Linux 101 |
-| 4 | Matagenomic genome assembly in Terra | Bash scripting |
-| 5 | Evaluating the assemblies qualities | Introduction to python for bioinformatics |
-| 6 | Genome assembly in the command line | Introduction to python for bioinformatics |
-| 7 | Genome assembly in the command line | Introduction to Biopython |
-| 8 | Multiple Sequence Alignment | Introduction to pandas |
-| 9 | Introduction to Phylogenetics | Introduction to pandas |
-| 10 | Building and visualizing  a Maximum Likelihood Tree | Data visualization tools |
+| **1** | Introduction to Genomic Epidemiology | Introduction to Linux operating system |
+| **2** | Introduction to Bioinformatics for genome assembly | Introduction to linux command line |
+| **3** | Matagenomic genome assembly in Terra | Linux 101 |
+| **4** | Matagenomic genome assembly in Terra | Bash scripting |
+| **5** | Evaluating the assemblies qualities | Introduction to python for bioinformatics |
+| **6** | Genome assembly in the command line | Introduction to python for bioinformatics |
+| **7** | Genome assembly in the command line | Introduction to Biopython |
+| **8** | Multiple Sequence Alignment | Introduction to pandas |
+| **9** | Introduction to Phylogenetics | Introduction to pandas |
+| **10** | Building and visualizing  a Maximum Likelihood Tree | Data visualization tools |
 
 
 
