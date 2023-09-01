@@ -64,7 +64,7 @@ We will conduct the attached demographic survey to calibrate the course accordin
 ## Session 10: Building and visualizing  a Maximum Likelihood Tree
 ### Session type: Theory and practical
 - [ ] Maximum likelihood trees
-- [ ] **PRACTICAL:** Iqtree web server, Iqtree on the command line
+- [ ] **Practical:** Iqtree web server, Iqtree on the command line
 - [ ] Visualizing and annotating trees using FigTree
 - [ ] Tree interpretation 
 - [ ] Tie back to genomic epidemiology
