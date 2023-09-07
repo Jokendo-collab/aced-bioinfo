@@ -41,7 +41,7 @@ We will conduct the attached demographic survey to calibrate the course accordin
 
 ## Session 6+7: Genome assembly in the command line
 ### Session type: Theory and practical
-- [ ] PRACTICAL: Assembly using command line tools
+- [ ] **PRACTICAL:** Assembly using command line tools
 - [ ] Snakemake
 - [ ] Variant calling and analysis and visualization
 - [ ] Sandbox.io tutorials
@@ -50,7 +50,7 @@ We will conduct the attached demographic survey to calibrate the course accordin
 - [ ] Importance of alignment 
 - [ ] Choosing a background dataset – including introduction to databases and retrieving sequences
 [ ] Visualization in AliView
-- [ ] PRACTICAL: Performing alignment with Mafft online server, performing Mafft in the command line
+- [ ] **PRACTICAL:** Performing alignment with Mafft online server, performing Mafft in the command line
 - [ ] Trimming/masking of alignments: We can highlight the hard and softmaskings 
 - [ ] Frameshifting mutations
 - [ ] NCBI for coding region starts and stops
