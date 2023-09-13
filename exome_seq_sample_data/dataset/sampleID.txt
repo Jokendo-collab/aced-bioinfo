@@ -1,0 +1,5 @@
+entity:sample_id	samples
+demo.norm_r1	demo.norm_r1.fastq.gz
+demo.norm_r2	demo.norm_r2.fastq.gz
+demo.tumor_r1	demo.tumor_r1.fastq.gz
+demo.tumor_r2	demo.tumor_r2.fastq.gz
