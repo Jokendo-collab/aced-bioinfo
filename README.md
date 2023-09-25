@@ -154,3 +154,57 @@ Concept: Terminal lets you access the Unix system that lies beneath the fancy Ma
 
 
 
+## Bioinformatics Training Survey for MSc/PhD Students
+
+Dear Participant,
+
+We are excited to invite you to participate in our bioinformatics training needs assessment survey for incoming PhD students. Your input is invaluable in helping us tailor our training programs to meet the evolving needs of the bioinformatics community. This survey aims to understand your background, interests, and preferences, so we can design effective and relevant training modules. Your responses will be kept confidential and used solely for research purposes.
+
+Section 1: Personal Information
+
+- [ ] Full Name:
+- [ ] Email Address:
+- [ ] Department/Program:
+Year of MSc/PhD Enrollment:
+
+Section 2: Background Information
+
+What is your primary field of study within the life sciences? (e.g., biology, genetics, chemistry, etc.)
+How familiar are you with bioinformatics? (Scale: Not at all - Somewhat - Moderately - Very - Extremely)
+Have you received any formal bioinformatics training before? (Yes/No)
+What is your proposed research topic? ( Max worlds: 50)
+
+Section 3: Training Needs Assessment
+
+Please rate the importance of the following bioinformatics topics for your PhD training, using the scale: (Not Important - Somewhat Important - Important - Very Important - Essential)
+
+- [ ] Data preprocessing and quality control
+- [ ] Sequence alignment and mapping
+- [ ] Phylogenetic data analysis and interpretation
+- [ ] Transcriptomics data analysis
+- [ ] Network and pathway analysis
+- [ ] Machine learning in bioinformatics
+- [ ] High-throughput data visualization
+- [ ] Statistical analysis in bioinformatics
+- [ ] Comparative genomics
+- [ ] Metagenomics analysis
+
+Section 4: Additional Comments
+Do you have any specific bioinformatics challenges or topics not mentioned above that you would like to address during your PhD training?
+
+Any additional comments or suggestions you would like to let the trainers know to increase your training experience?
+
+
+Section 5: Consent and Contact
+
+By submitting this survey, you agree to participate voluntarily and understand that your responses will be used for research purposes only.
+
+If you would like to receive updates about our bioinformatics training programs, please provide your email address below:
+
+Email for Updates: [Textbox]
+
+Thank you for participating in our survey! Your input will greatly assist us in enhancing our bioinformatics training offerings for incoming PhD students.
+
+
+
+
