@@ -16,6 +16,9 @@ We will conduct the attached demographic survey to calibrate the course accordin
 - [ ] When does evolution matter and how to interpret changes in lineage frequencies over time (stochastic, epidemiologic, advantageous phenotypes, etc.)
 - [ ] Why do changes in lineage frequencies (potentially) matter
 - [ ] When do individual mutations matter and how to evaluate (proteins, immune escape, etc.)
+
+## Instructors and their role
+The list of the instructors can be found y clicking the fillowing [link](https://docs.google.com/spreadsheets/d/1OLZyL4V7JmSLisOm3f2GOEFXQEbB6RmtNDbGein52zc/edit#gid=0)
 ## Session 2: Introduction to Bioinformatics for genome assembly
 ### Session type: Theory
 - [ ] Pathogen agnostic conceptual overview of bioinformatic pipeline steps in and key file types (demux, primer trimming, assembly, etc.) 
